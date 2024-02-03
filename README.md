@@ -62,7 +62,7 @@ Security guard duo inspecting our dependencies.
 >>>>>>> f9034d78f66a3cfd38bdb1ba4617fbba4732da98
 🚀 Ready to Begin Your Journey?
 
-🌟 Your CI/CD Magic Show Awaits! Dive into ThreeTierAppToDo now and witness your 3-Tier TODO app shine in the cloud. 🚀✨
+🌟 Your CI/CD Magic Show Awaits! Dive into the Three Tier ToDo App now and witness your 3-Tier TODO app shine in the cloud. 🚀✨
 
 Explore the documentation for more insights and helpful tips. Raise issues or pull requests for magical enhancements. Happy coding! 🧙‍♂️✨
 
